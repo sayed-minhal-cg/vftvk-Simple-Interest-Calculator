@@ -25,3 +25,8 @@ label {
   width: 110px;
   padding-left: 20px;
 }
+
+strong {
+  background-color: yellow;
+  padding: 3px 5px;
+}
